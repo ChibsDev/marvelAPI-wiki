@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/marvelAPI-wiki/static/css/main.955e4641.css",
+    "main.js": "/marvelAPI-wiki/static/js/main.58ae2c2d.js",
+    "static/media/bg19.jpg": "/marvelAPI-wiki/static/media/bg19.6c2cbb821587624d3cdb.jpg",
+    "static/media/MarvelRegular-Dj83.ttf": "/marvelAPI-wiki/static/media/MarvelRegular-Dj83.329acb512a429ca2049d.ttf",
+    "index.html": "/marvelAPI-wiki/index.html",
+    "main.955e4641.css.map": "/marvelAPI-wiki/static/css/main.955e4641.css.map",
+    "main.58ae2c2d.js.map": "/marvelAPI-wiki/static/js/main.58ae2c2d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.955e4641.css",
+    "static/js/main.58ae2c2d.js"
+  ]
+}
